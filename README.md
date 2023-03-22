@@ -1,6 +1,7 @@
 # BMI-Calculator
 I have create BMI calculator Using Nodejs And Express js
-Tey it : https://kuldeepkaware123.github.io/BMI-Calculator/
+
+Try it : https://kuldeepkaware123.github.io/BMI-Calculator/
 # Back End Code
 ![BackEnd Code](https://github.com/kuldeepkaware123/BMI-Calculator/blob/main/ray-so-export.png)
 # Front End
